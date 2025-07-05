@@ -1,5 +1,6 @@
 # Image-Generator-w-o-OpenAI-API-
-This is an Image Generator by user input. It does not utilize any OpenAI API's. Uses the Hugging Face FLUX.1-dev model
+This is an Image Generator by user input. It does not utilize any OpenAI API's. Uses the Hugging Face FLUX.1-dev model.
+
 This is my first repo and I'm a beginner, so it might not be efficient but it was my first attempt at something outside of academics.
 
 To use this image generator, you will need to make your own API key with Hugging Faces. https://huggingface.co/settings/tokens. Use this and set the Permissions to **Read. The default permission is FineGrained, so make sure to switch it to **Read before creating your API key. (It asks for your key only at runtime)
