@@ -1,4 +1,4 @@
-# Image-Generator-w-o-OpenAI-API-
+# Image-Generator
 This is an Image Generator by user input. It does not utilize any OpenAI API's. Uses the Hugging Face FLUX.1-dev model.
 
 This is my first repo and I'm a beginner, so it might not be efficient but it was my first attempt at something outside of academics.
